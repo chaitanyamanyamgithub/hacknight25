@@ -1,0 +1,1 @@
+"""Configuration settings for the Healthcare EHR Backend""" 

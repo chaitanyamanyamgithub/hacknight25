@@ -1,0 +1,1 @@
+"""Ethereum blockchain integration for the Healthcare EHR Backend""" 
